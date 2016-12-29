@@ -1,6 +1,6 @@
 {
   "name": "botkit-middleware-watson-simple-example",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Simple Slack bot example using botkit-middleware-watson with Botkit.",
   "main": "simple-bot-slack.js",
   "scripts": {
